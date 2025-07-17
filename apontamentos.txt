@@ -1,0 +1,20 @@
+1. criar as migration,model e controller
+
+php artisan make:model Tarefas -mcr
+
+
+2. Editar as migration
+  de acordo com os campos..
+  rodar as migration
+  php artisan migrate
+
+3. Criar rotas
+
+
+4. editar o s controller
+
+
+5. Criar as view
+
+
+6.não esquecer de configurar as models em models
